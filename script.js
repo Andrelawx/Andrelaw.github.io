@@ -1,4 +1,4 @@
-const txtElement = ['On', 'Glints', 'Foundation', 'Program'];
+const txtElement = ['On', 'Netflix', 'Disneyplus', 'Rotten'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
